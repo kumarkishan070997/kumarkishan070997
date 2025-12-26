@@ -87,12 +87,3 @@ I enjoy sharing practical knowledge and real-world experiences through technical
 - 📝 **Building Dynamic Databases with Laravel: Step-by-Step**  
   👉 [https://thedevnerd.com  ](https://www.thedevnerd.com/2021/09/create-database-laravel.html)
 
-*(More articles coming soon 🚀)*
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=kumarkishan070997&label=Profile%20Views&color=0&icon=5" />
-</p>
-
-<!-- Designed with ❤️ for clean GitHub presence -->
