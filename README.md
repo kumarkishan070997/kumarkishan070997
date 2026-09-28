@@ -74,16 +74,29 @@ Hi 👋 I’m **Kishan**, a passionate **Software Engineer & Laravel Developer**
 
 ---
 
-## ✍️ Technical Blogs
+## ✍️ Technical Writing
 
-I enjoy sharing practical knowledge and real-world experiences through technical writing.
+I write practical, experience-driven articles about Laravel, PHP, databases, APIs and backend development.
 
-- 📝 **Engage Your Users: A Guide to Push Notifications in Laravel & PHP**  
-  👉 [https://thedevnerd.com ](https://www.thedevnerd.com/2021/03/laravel-firebase.html) 
+🌐 **[TheDevNerd](https://www.thedevnerd.com/)**
 
-- 📝 **Stripe Payment Gateway: Effortless Setup in Laravel 7/8**  
-  👉 [https://thedevnerd.com  ](https://www.thedevnerd.com/2021/09/payment-gateway-integration-in-laravel.html)
+Some recent topics:
 
-- 📝 **Building Dynamic Databases with Laravel: Step-by-Step**  
-  👉 [https://thedevnerd.com  ](https://www.thedevnerd.com/2021/09/create-database-laravel.html)
+* **Laravel `withWhereHas()` — Avoid Loading a Relationship Twice**
+* **Processing Large CSV Files with Lazy Collections & Generators**
+* **Understanding `fresh()` vs `refresh()` in Laravel**
+* **Laravel `replicate()` — Creating Model Copies the Right Way**
+* **Understanding `isDirty()`, `wasChanged()` & `getOriginal()`**
+* **Laravel `withoutEvents()` — When and Why to Use It**
+
+👉 [Read more on TheDevNerd](https://www.thedevnerd.com/)
+
+---
+
+## 📫 Connect With Me
+
+* 💼 [LinkedIn](https://linkedin.com/in/kishanmaharana)
+* 🌐 [TheDevNerd](https://www.thedevnerd.com/)
+* 💻 [GitHub](https://github.com/kumarkishan070997)
+* 💬 [Stack Overflow](https://stackoverflow.com/users/12705795)
 
